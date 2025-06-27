@@ -29,7 +29,7 @@ Esta API realiza uma requisição HTTP (`GET /turmas/<id>`) para validar se a **
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/L-diaaas/APIReservaSala.git
+git clone https://github.com/laura-dsouza/APIReservaSalas.git
 cd APIReservaSalas 
 ```
 
